@@ -48,6 +48,3 @@ Instructions for running the application will be added at the end of development
 - **Gregorio Barberio** — [@gregbar2](https://github.com/gregbar2)
 - **Simone Grimaldi** — [@simonegrimaldi](https://github.com/simonegrimaldi)
 - **Davide Quaranta** — [@davidequaranta8](https://github.com/davidequaranta8)
-
-└── README.md
-```
