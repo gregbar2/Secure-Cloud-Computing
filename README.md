@@ -23,7 +23,7 @@ The system receives the features extracted from the handwriting tasks performed 
 | Outage | At most 30 minutes per event, 3 minutes on average |
 | Reliability | ≥ 99.5% of requests served correctly |
 | Response time | ≤ 1 second at the 99th percentile |
-| Peak load | Up to 5,000 requests per minute |
+| Peak load | Up to 5,000 simultaneous requests per minute |
 
 ## Repository structure
 
